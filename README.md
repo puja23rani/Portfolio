@@ -3,8 +3,6 @@
 Welcome to my personal portfolio repository! 🚀  
 This project showcases my work, skills, and experience in web development.  
 
-You can visit the live portfolio here: [Portfolio Link](https://puja23rani.github.io/Portfolio) *(update with actual link if different)*
-
 ---
 
 ## ✨ Features
